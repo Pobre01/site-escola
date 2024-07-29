@@ -1,1 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
+.cobecalho{
+    background-color: rgb(255, 0, 0);
+    color: rgb(3, 3, 3)
+    display: flex;
+    justify-cotent: space-around
+}
