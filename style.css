@@ -3,9 +3,24 @@
     padding: 0;
 }
 
-.cobecalho{
+.cabecalho{
     background-color: rgb(255, 0, 0);
     color: rgb(3, 3, 3)
     display: flex;
     justify-cotent: space-around
+    align-itens: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 100%;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+}
+
+.escola-imagem{
+    width: 30%;
 }
